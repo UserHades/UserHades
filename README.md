@@ -18,6 +18,3 @@
 <!-- I know. PowerShell is just a better version of windows command prompt. -->
 <img align="left" alt="PowerShell" width="26px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.dUa7vos4bkfLpxyctsDf0QHaHa%26pid%3DApi&f=1" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br />
-<br />
-<p>I also know a one scripting language but I hate it so</p>
